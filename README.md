@@ -38,8 +38,6 @@ Upon running the program, you will be presented with a simple text-based user in
 ## Contributing
 If you want to contribute to this project or suggest improvements, feel free to create a pull request or raise an issue on the project's GitHub repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code following the terms of the license.
 
 ## Contact
 If you have any questions or inquiries regarding this project, you can reach me at [disha200129@gmail.com](disha200129@gmail.com).
